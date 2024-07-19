@@ -96,7 +96,7 @@
     "karma": "^6.0.3",
     "karma-chrome-launcher": "~3.1.0",
     "karma-coverage": "^2.0.3",
-    "karma-jasmine": "~4.0.1",
+    "karma-jasmine": "~5.1.0",
     "karma-jasmine-html-reporter": "^1.7.0",
     "stylelint": "^13.8.0",
     "stylelint-config-sass-guidelines": "^7.1.0",
